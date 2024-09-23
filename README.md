@@ -6,6 +6,10 @@ SPDX-License-Identifier: BSD-3-Clause
 
 # easy.probes for Qbs
 
+[![Made by Ukrainian](https://img.shields.io/static/v1?label=Made%20by&message=Ukrainian&labelColor=1f5fb2&color=fad247&style=flat-square)](https://savelife.in.ua/en/donate-en/#donate-army-card-once)
+[![License](https://img.shields.io/github/license/easyQML/easy.probes.qbs?style=flat-square)](LICENSE)
+![REUSE Compliance](https://img.shields.io/reuse/compliance/github.com%2FeasyQML%2Feasy.probes.qbs?style=flat-square)
+
 A collection of helper probes for your Qbs projects.
 
 ## Available probes
