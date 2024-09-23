@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BSD-3-Clause
-// SPDX-FileCopyrightText: © 2024 Serhii Olendarenko
+// SPDX-FileCopyrightText: © 2024 Serhii “GooRoo” Olendarenko
 // SPDX-FileContributor: Serhii Olendarenko <sergey.olendarenko@gmail.com>
 
 import qbs.File

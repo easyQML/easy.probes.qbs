@@ -31,7 +31,7 @@ This probe for Conan 2 runs `conan install` before building the project.
 	```qml
 	moduleProviders.conan.installDirectory: project.buildDirectory
 	```
-	Unfortunately, this can't be done on a project level yet due to the https://bugreports.qt.io/browse/QBS-1801.
+	Unfortunately, this can't be done on a project level yet due to the [QBS-1801](https://bugreports.qt.io/browse/QBS-1801).
 3. Use it in your project. For example, like this:
 	```qml
 	import qbs.FileInfo
